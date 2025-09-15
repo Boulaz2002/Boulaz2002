@@ -16,15 +16,15 @@
 ---
 
 ## 📂 Featured Projects
-🔹 [VM Backup & Monitoring Dashboard](https://github.com/yourusername/project1-backup-dashboard)  
+🔹 [VM Backup & Monitoring Dashboard](https://github.com/Boulaz2002/backup-dashboard)  
 *FastAPI · PostgreSQL · Docker · AWS Glacier*  
 > Automated VM backup system with daily scheduling, AWS Glacier integration, and monitoring dashboard.  
 
-🔹 [Infrastructure as Code with Terraform](https://github.com/yourusername/project2-iac-cicd)  
+🔹 [Infrastructure as Code with Terraform](https://github.com/Boulaz2002/iac-cicd)  
 *Terraform · AWS · GitHub Actions*  
 > Provisioned AWS VPC, EC2, IAM, and S3 with Terraform, using CI/CD for automated deployments.  
 
-🔹 [Cloud-Native Monitoring Stack](https://github.com/yourusername/project3-observability)  
+🔹 [Cloud-Native Monitoring Stack](https://github.com/Boulaz2002/observability)  
 *Prometheus · Grafana · Loki*  
 > Full observability stack with dashboards, log aggregation, and alerting for system reliability.  
 
